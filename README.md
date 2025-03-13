@@ -8,12 +8,12 @@ This project simulates the functionality of a microwave oven using an LCD displa
 
 The system includes the following features:
 
-Keypad Input: Users can enter cooking time using the keypad.
-Motor Simulation: Represents the microwave’s rotating plate, which spins during operation.
-LCD Display: Displays the entered time, cooking progress, and completion message.
-LED Indicator: Turns on when the microwave is active and blinks upon completion.
-Buzzer Notification: Sounds 2 seconds after cooking is completed.
-System Reset: After completion, the system resets to allow another cooking session.
+- Keypad Input: Users can enter cooking time using the keypad.
+- Motor Simulation: Represents the microwave’s rotating plate, which spins during operation.
+- LCD Display: Displays the entered time, cooking progress, and completion message.
+- LED Indicator: Turns on when the microwave is active and blinks upon completion.
+- Buzzer Notification: Sounds 2 seconds after cooking is completed.
+- System Reset: After completion, the system resets to allow another cooking session.
 
 #### Microwave System Functionality
 1. User Input (Keypad Interaction)
