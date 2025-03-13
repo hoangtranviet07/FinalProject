@@ -20,10 +20,10 @@ System Reset: After completion, the system resets to allow another cooking sessi
 The user inputs cooking time using the keypad.
 Pressing # starts cooking, activating the motor and LED.
 2. Cooking Process
-The countdown is displayed on the LCD screen.
+The count-up is displayed on the LCD screen.
 The motor rotates to simulate the microwave’s rotating plate.
 3. Completion Phase
-When the time reaches 0:
+When the time reaches goal time:
 The motor stops.
 The LCD displays "Done!".
 The buzzer sounds 2 seconds.
@@ -36,7 +36,7 @@ The system resets, allowing another cooking session.
 |----------|----------|----------|
 | User can enter cooking time via the keypad. | Pass | Numeric keys input time correctly.|
 | Pressing # starts cooking. | Pass | Cooking begins, motor starts, and LED turns on.|
-| Display updates with cooking time countdown. | Pass | Time decreases correctly on the LCD.|
+| Display updates with cooking time count-up. | Pass | Time increases correctly on the LCD.|
 | Cooking stops when time reaches zero. | Pass | Motor stops, LED blinks, and buzzer sounds.|
 | Buzzer sounds after completion. | Pass | Beeps 2 seconds|
 | LED blinks six times after cooking. | Pass | LED blinks as expected before turning off.|
