@@ -2,7 +2,6 @@
 
 Team Members: Hoang Tran and Kaito Nguyen
 <br/>
-<br/>
 
 ### Description
 This project simulates the functionality of a microwave oven using an LCD display, a matrix keypad, a motor, a buzzer, and LED indicators. The microwave operates based on user input, allowing the user to set cooking time via the keypad.
