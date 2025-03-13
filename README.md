@@ -17,18 +17,19 @@ The system includes the following features:
 
 #### Microwave System Functionality
 1. User Input (Keypad Interaction)
-The user inputs cooking time using the keypad.
-Pressing # starts cooking, activating the motor and LED.
+- The user inputs cooking time using the keypad.
+- Pressing # starts cooking, activating the motor and LED.
 2. Cooking Process
-The count-up is displayed on the LCD screen.
-The motor rotates to simulate the microwave’s rotating plate.
+- The count-up is displayed on the LCD screen.
+- The motor rotates to simulate the microwave’s rotating plate.
 3. Completion Phase
-When the time reaches goal time:
-The motor stops.
-The LCD displays "Done!".
-The buzzer sounds 2 seconds.
-The LED blinks six times before turning off.
-The system resets, allowing another cooking session.
+- When the time reaches goal time:
+- The motor stops.
+- The LCD displays "Done!".
+- The buzzer sounds 2 seconds.
+- The LED blinks six times before turning off.
+- The system resets, allowing another cooking session.
+- 
 ## Testing results
 - Microwave Cooking Functionality
 
