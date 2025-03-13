@@ -29,7 +29,7 @@ The system includes the following features:
 - The buzzer sounds 2 seconds.
 - The LED blinks six times before turning off.
 - The system resets, allowing another cooking session.
-- 
+
 ## Testing results
 - Microwave Cooking Functionality
 
